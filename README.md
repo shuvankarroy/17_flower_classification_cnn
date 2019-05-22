@@ -9,6 +9,9 @@ Visit the following link for 17 flower database download:
 
 http://www.robots.ox.ac.uk/~vgg/data/flowers/17/17flowers.tgz
 
+In the program database stored in google drive inside 'flowers_classified_data' folder.
+
+## Program run on Google Colab using GPU backend.
 
 # 17 Flower Category Database
 ----------------------------------------------
